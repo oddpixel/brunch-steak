@@ -35,4 +35,4 @@ They're in original [LESS](http://lesscss.org/) format in order to be easily cus
 jQuery plugins used by Bootstrap are all listed (in the right order) inside the config.coffee file. Comment out the ones you want to exclude from the build with a #. (Pay attention to dependencies!)
 
 ## Credit
-Brunch with Steak was spawned from [Brunch with Eggs and Bacon](https://github.com/nezoomie/brunch-eggs-and-bacon) because it's versions of [jQuery](http://jquery.com/), [Underscore](http://underscorejs.org/), [Backbone](http://backbonejs.org/), and [Bootstrap](http://getbootstrap.com/) were all out-of-date.
+Brunch with Steak was spawned from [Brunch with Banana Pancakes](https://github.com/Anaphase/brunch-banana-pancakes) but customized to suite my preferences / needs.
